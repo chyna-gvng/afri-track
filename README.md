@@ -6,6 +6,7 @@ A web-based system that tracks and displays real-time cryptocurrency prices agai
 - JavaScript/TypeScript
 - SCSS
 - Vite
+- Vercel
 
 ### Features
 - Cryptocurrency overview page
