@@ -20,7 +20,7 @@ export default function Navbar({globalData, cryptoList}: any) {
     }
   };
 
-  const repoUrl = "https://github.com/mrmendoza171/AfriTrack";
+  const repoUrl = "https://github.com/chyna-gvng/afri-track";
 
   return (
     <div className="Navbar">
