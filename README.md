@@ -11,7 +11,7 @@ A web-based system that tracks and displays real-time cryptocurrency prices agai
 ### Features
 - Cryptocurrency overview page
 - Portfolio tracker
-- Related news articles and videos (Not using an active API subscription)
+- Related news articles and videos
 - Cryptocurrency widgets
 
 ### Widgets
