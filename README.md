@@ -24,7 +24,21 @@ A web-based system that tracks and displays real-time cryptocurrency prices agai
 
 ### Developer Enviroment Setup
 - Clone the repository:  
-``git clone ``
+```
+git clone https://github.com/chyna-gvng/afri-track.git
+```
+- Change directory:
+```
+cd afri-track
+```
+- Install dependancies and packages:
+```
+npm install
+```
+- Run on local server:
+```
+npm run dev
+```
 
 ### Resources
 - [CoinGecko](https://www.coingecko.com/)
