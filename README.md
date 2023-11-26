@@ -24,7 +24,7 @@ A web-based system that tracks and displays real-time cryptocurrency prices agai
 
 ### Developer Enviroment Setup
 - Clone the repository:  
-```git clone ```
+``git clone ``
 
 ### Resources
 - [CoinGecko](https://www.coingecko.com/)
