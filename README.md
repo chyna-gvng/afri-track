@@ -22,6 +22,10 @@ A web-based system that tracks and displays real-time cryptocurrency prices agai
 - Ethereum Gas Tracker
 - Crypto Fear & Greed Index
 
+### Developer Enviroment Setup
+- Clone the repository:  
+```git clone ```
+
 ### Resources
 - [CoinGecko](https://www.coingecko.com/)
 - [CoinGecko API](https://www.coingecko.com/api/documentations/v3)
